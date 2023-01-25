@@ -1,0 +1,98 @@
+ * {
+    margin: 0;
+    padding: 0;
+}
+
+#headerstrip {
+	height: 75px; 
+	background-color: #FFFFFF; 
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.foot {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align:center;
+  height: 175px; 
+  color: white;
+  background-color: #3b4f56;
+  position: relative;
+}
+
+.foot span {
+   position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.foot a {
+  color: white;
+}
+
+.mid-column {
+	color: #696969;
+	padding: 20px;
+	font-size: 21px;
+}
+
+.main-description {
+	text-align: center;
+	margin: 20px;
+	padding: 10px;
+	font-size: 21px;
+	color: #696969;
+	font-family: 'Roboto Slab', serif;
+}	
+
+.header img {
+  width: 50px;
+  height: auto;
+  background: #555;
+}
+
+.header h2 {
+  text-align: center;
+  margin: 30px auto;
+  padding: 10px;
+  color: #696969;
+  font-family: 'Roboto Slab', serif;
+}
+
+.main-header {
+	text-align: center;
+	margin: 30px;
+	padding: 10px;
+	color: #696969;
+	font-family: 'Roboto Slab', serif;
+}
+
+.contact-link {
+	font-weight: bold;
+	color: red;
+}
+
+.contact-link:hover {
+	color: red;
+}
+
+.navbar-custom li {
+	float: right;
+}
+
+.navigation {
+	margin-top: 10px;
+	/*padding: 10 0 10 0px;*/
+}
+
+.navigation2 {
+	padding: 30px 30px 30px 30px;
+}
+
+
+.main-blog-body h2,p {
+	margin: 60px;
+	color: #696969;
+}
